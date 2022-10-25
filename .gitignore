@@ -1,1 +1,4 @@
 .pio
+.cache
+.cache/*
+firmware.zip
